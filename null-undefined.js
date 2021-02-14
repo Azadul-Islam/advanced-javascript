@@ -8,8 +8,8 @@ function add(num1, num2){
 }
 
 
-const premik = {name:"smart dude", phone:0125478};
-console.log(premik.gf);.
+const premik = {name:"smart dude", phone: 01740}
+console.log(premik.gf);
 
 let fun = undefined;
 console.log(fun);
